@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <h1>top 10 enginering college in gz</h1>
+ <!-- this heading will be change in future this is featur is know as comments using short cut (ctrl+/) -->
+ <!-- improve below peragraph -->
+ <p>Top 10 engineering college in Ghaziabad
+top 10 enginering college in ghaziabad
+Ajay Kumar Garg Engineering College
+Ajay Kumar Garg Engineering College
+Educational services
+Hapur Bypass Road, Near Saraswati Mandir, Dasna, Ghaziabad
+087440 52891
+Abes Engineering College
+Abes Engineering College
+College/university
+Hapur Bypass Hwy(NH-24), Near Amrit Steel Company, Chipiyana Buzurg, Ghaziabad
+Closed · Opens tomorrow 08:30 · 0120 713 5112
+Sunder Deep College of Engineering and Technology
+Sunder Deep College of Engineering and Technology
+4.2/5 (26) · College/university
+NH-24, Sunder Deep Nagar Dasana, N.C.R, Ghaziabad
+0120 276 6468
+Hi Tech Institute of Engineering & Technology
+Hi Tech Institute of Engineering & Technology
+College/university
+26th Km. Mile Stone, Delhi - Hapur Bypass, NH-24, PO-Adhyatmik Nagar, Ghaziabad
+098186 97091
+ABES Institute of Business Management
+ABES Institute of Business Management
+College/university
+Campus 2, 19th Km. Stone, NH-24, Vijay Nagar, Ghaziabad
+Closed · Opens tomorrow 09:00 · 0120 284 0413
+SARASWATI Collage of PROFESSIONAL STUDIES
+SARASWATI Collage of PROFESSIONAL STUDIES
+College/university
+Plot No. 819, 27 KM Stone, NH-24, Delhi-Hapur Bye Pass, Near Ajay Kumar Garg Engineering College, Po- Adhyatmik Nagar, Dasna, Ghaziabad
+0120 326 673
+</body> 
+</html>
