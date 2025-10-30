@@ -1,45 +1,106 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>September 2025 Calendar (HTML only)</title>
 </head>
 <body>
- <h1>top 10 enginering college in gz</h1>
- <!-- this heading will be change in future this is featur is know as comments using short cut (ctrl+/) -->
- <!-- improve below peragraph -->
- <p>Top 10 engineering college in Ghaziabad
-top 10 enginering college in ghaziabad
-Ajay Kumar Garg Engineering College
-Ajay Kumar Garg Engineering College
-Educational services
-Hapur Bypass Road, Near Saraswati Mandir, Dasna, Ghaziabad
-087440 52891
-Abes Engineering College
-Abes Engineering College
-College/university
-Hapur Bypass Hwy(NH-24), Near Amrit Steel Company, Chipiyana Buzurg, Ghaziabad
-Closed · Opens tomorrow 08:30 · 0120 713 5112
-Sunder Deep College of Engineering and Technology
-Sunder Deep College of Engineering and Technology
-4.2/5 (26) · College/university
-NH-24, Sunder Deep Nagar Dasana, N.C.R, Ghaziabad
-0120 276 6468
-Hi Tech Institute of Engineering & Technology
-Hi Tech Institute of Engineering & Technology
-College/university
-26th Km. Mile Stone, Delhi - Hapur Bypass, NH-24, PO-Adhyatmik Nagar, Ghaziabad
-098186 97091
-ABES Institute of Business Management
-ABES Institute of Business Management
-College/university
-Campus 2, 19th Km. Stone, NH-24, Vijay Nagar, Ghaziabad
-Closed · Opens tomorrow 09:00 · 0120 284 0413
-SARASWATI Collage of PROFESSIONAL STUDIES
-SARASWATI Collage of PROFESSIONAL STUDIES
-College/university
-Plot No. 819, 27 KM Stone, NH-24, Delhi-Hapur Bye Pass, Near Ajay Kumar Garg Engineering College, Po- Adhyatmik Nagar, Dasna, Ghaziabad
-0120 326 673
-</body> 
+<table border="1" cellpadding="6" cellspacing="0" width="900" align="center">
+  <caption><strong>September 2025 &#8212; Monthly Calendar</strong></caption>
+  <tr>
+    <th colspan="8" align="center">September 2025</th>
+  </tr>
+  <tr>
+    <th>Sun</th>
+    <th>Mon</th>
+    <th>Tue</th>
+    <th>Wed</th>
+    <th>Thu</th>
+    <th>Fri</th>
+    <th>Sat</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+      <strong>1</strong><br>
+      Semester starts (Dept A)
+    </td>
+    <td>
+      <strong>2</strong>
+    </td>
+    <td>
+      <strong>3</strong>
+    </td>
+    <td>
+      <strong>4</strong>
+    </td>
+    <td>
+      <strong>5</strong><br>
+      <!-- Nested table showing event details -->
+      <table border="0" cellpadding="4" cellspacing="0" width="100%">
+        <tr><td>Team meeting</td></tr>
+        <tr><td>4:00 PM</td></tr>
+      </table>
+    </td>
+    <td>
+      <strong>6</strong>
+    </td>
+    <td rowspan="6" valign="top">
+      <strong>Monthly Notes &amp; Legend</strong>
+      <ul>
+        <li>Blue = event (visualized with nested table in this HTML-only example)</li>
+        <li>Green = holiday</li>
+        <li>Notes column uses rowspan to stay visible</li>
+      </ul>
+      <p>Tip: This file is plain HTML. To make it interactive or styled, add CSS or JavaScript separately.</p>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>7</strong></td>
+    <td><strong>8</strong></td>
+    <td><strong>9</strong></td>
+    <td><strong>10</strong></td>
+    <td><strong>11</strong></td>
+    <td><strong>12</strong></td>
+    <td><strong>13</strong></td>
+  </tr>
+  <tr>
+    <td><strong>14</strong></td>
+    <td>
+      <strong>15</strong><br>
+      <table border="0" cellpadding="4" cellspacing="0" width="100%">
+        <tr><td>Exam: Maths (9:00 AM)</td></tr>
+        <tr><td>Club meet (6:30 PM)</td></tr>
+      </table>
+    </td>
+    <td><strong>16</strong></td>
+    <td><strong>17</strong></td>
+    <td><strong>18</strong></td>
+    <td><strong>19</strong></td>
+    <td><strong>20</strong></td>
+  </tr>
+  <tr>
+    <td><strong>21</strong></td> <td><strong>22</strong></td>
+    <td><strong>23</strong></td><td><strong>24</strong></td>
+    <td><strong>25</strong></><td><strong>26</strong></td>
+      <td><strong>27</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>28</strong></td>
+    <td><strong>29</strong></td>
+    <td><strong>30</strong></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+</table>
+
+</body>
 </html>
+
+ 
